@@ -140,7 +140,7 @@ function App() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center space-x-4">
               <Book className="w-8 h-8 text-amber-600" />
-              <h1 className="text-2xl font-bold text-gray-900">BookHaven</h1>
+              <h1 className="text-2xl font-bold text-gray-900">Average Bookstore</h1>
             </div>
             
             <nav className="hidden md:flex items-center space-x-8">
@@ -353,7 +353,7 @@ function App() {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Book className="w-6 h-6 text-amber-400" />
-                <h4 className="text-xl font-bold">BookHaven</h4>
+                <h4 className="text-xl font-bold">Average Bookstore</h4>
               </div>
               <p className="text-gray-400">
                 Your premier destination for books that inspire, educate, and entertain.
